@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htullionunes
 - 👀 I’m interested in new chalenges
-- 🌱 I’m currently learning about phyton, next i'll keep learning about computer programming.
+- 🌱 I’m currently learning about Java :Coffee:, next i'll keep learning about computer programming.
 - 📫 How to reach me? It´s simple, text me an email to htullionunes@gmail.com
 
 <!---
