@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htullionunes
 - 👀 I’m interested in new chalenges
-- 🌱 I’m currently learning about Python:python:, next i'll keep learning about computer programming :brain:.
+- 🌱 I’m currently learning about Python 🐍, next i'll keep learning about computer programming 🧠.
 - 📫 How to reach me? It´s simple, text me an email to htullionunes@gmail.com
 
 <!---
